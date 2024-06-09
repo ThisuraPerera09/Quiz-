@@ -1,0 +1,33 @@
+/* styles.css */
+
+/* Main container for the home page */
+.home-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Full height of the viewport */
+    background: linear-gradient(135deg, #4b6cb7, #182848); /* Gradient background */
+    color: #ffffff;
+    text-align: center;
+  }
+  
+  /* Welcome text styling */
+  .welcome-text {
+    max-width: 600px;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.6); /* Semi-transparent background */
+    border-radius: 10px;
+  }
+  
+  /* Button styling */
+  .btn-primary {
+    background-color: #ffd700;
+    border-color: #ffd700;
+    color: #000;
+  }
+  
+  .btn-primary:hover {
+    background-color: #ffc107;
+    border-color: #ffc107;
+  }
+  
