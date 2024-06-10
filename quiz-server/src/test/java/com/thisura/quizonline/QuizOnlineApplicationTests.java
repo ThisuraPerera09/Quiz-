@@ -1,4 +1,4 @@
-package com.dailycodework.quizonline;
+package com.thisura.quizonline;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

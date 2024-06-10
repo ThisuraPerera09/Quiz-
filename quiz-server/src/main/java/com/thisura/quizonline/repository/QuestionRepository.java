@@ -1,6 +1,6 @@
-package com.dailycodework.quizonline.repository;
+package com.thisura.quizonline.repository;
 
-import com.dailycodework.quizonline.model.Question;
+import com.thisura.quizonline.model.Question;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;

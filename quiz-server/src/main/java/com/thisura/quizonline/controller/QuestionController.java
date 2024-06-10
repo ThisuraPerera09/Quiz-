@@ -1,7 +1,7 @@
 package com.dailycodework.quizonline.controller;
 
-import com.dailycodework.quizonline.model.Question;
-import com.dailycodework.quizonline.service.IQuestionService;
+import com.thisura.quizonline.model.Question;
+import com.thisura.quizonline.service.IQuestionService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.crossstore.ChangeSetPersister;

@@ -1,4 +1,4 @@
-package com.dailycodework.quizonline.model;
+package com.thisura.quizonline.model;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotBlank;

@@ -1,6 +1,6 @@
-package com.dailycodework.quizonline.service;
+package com.thisura.quizonline.service;
 
-import com.dailycodework.quizonline.model.Question;
+import com.thisura.quizonline.model.Question;
 import org.springframework.data.crossstore.ChangeSetPersister;
 
 import java.util.List;

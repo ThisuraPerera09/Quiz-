@@ -1,7 +1,7 @@
-package com.dailycodework.quizonline.service;
+package com.thisura.quizonline.service;
 
-import com.dailycodework.quizonline.model.Question;
-import com.dailycodework.quizonline.repository.QuestionRepository;
+import com.thisura.quizonline.model.Question;
+import com.thisura.quizonline.repository.QuestionRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.crossstore.ChangeSetPersister;
 import org.springframework.data.domain.PageRequest;
@@ -12,9 +12,6 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.Optional;
 
-/**
- * @author Simpson Alfred
- */
 
 @Service
 @RequiredArgsConstructor
